@@ -46,6 +46,10 @@ Amazon S3
 AWS Identity and Access Management (IAM)
 Redshift Query Editor
 
+
+Tools & Skills Demonstrated
+
+Cloud Data Warehousing, Amazon Redshift, SQL, Data Ingestion, Data Modeling, Query Optimization (basic), IAM, Cloud Infrastructure
 ---
 
 ### **Implementation Steps**
